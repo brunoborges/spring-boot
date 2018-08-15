@@ -388,6 +388,14 @@ Boot integration] to get started with a Maven build to run the app.
 
 
 
+[[cloud-deployment-azure]]
+=== Microsoft Azure
+Microsoft Azure supports all common Cloud scenarios for deploying a Spring Boot application. You can either deploy as an uber JAR or a WAR file, and also as a Docker image. In this section we provide you with recommendations for the simplest ways of deploying each of these, but many other ways can be used following the https://docs.microsoft.com/azure/[official documentation].
+
+
+
+
+
 [[cloud-deployment-gae]]
 === Google Cloud
 Google Cloud has several options that can be used to launch Spring Boot applications.
